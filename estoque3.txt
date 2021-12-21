@@ -1,0 +1,5 @@
+ID: 1;Nome: produtoA;Preço: 100.0Quantidade: 0;
+ID: 2;Nome: produtoB;Preço: 1500.0Quantidade: 60;
+ID: 3;Nome: produtoC;Preço: 2100.0Quantidade: 7;
+ID: 4;Nome: produtoZ;Preço: 7000.0Quantidade: 8;
+ID: 5;Nome: Produto d;Preço: 500.8Quantidade: 11;

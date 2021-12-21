@@ -1,0 +1,4 @@
+1;produtoA;100.0;0
+2;produtoB;1500.0;60
+3;produtoC;2100.0;7
+4;produtoZ;7000.0;8
